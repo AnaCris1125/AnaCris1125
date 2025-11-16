@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ana Mejía  
+# 👋 Hola, soy Ana Cristina Mejía  
 ### Fullstack Developer
 
 Fullstack Developer enfocada en construir experiencias web modernas, funcionales y bien diseñadas. Trabajo tanto en frontend como en backend, creando soluciones completas que combinan diseño, lógica y buenas prácticas.
